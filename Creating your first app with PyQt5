@@ -8,6 +8,3 @@ window = QWidget()
 window.show()
 
 app.exec_()
-
-
-
